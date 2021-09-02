@@ -1,0 +1,58 @@
+Node3
+1
+1
+Keys : 
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|1
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|2
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|3
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|4
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|5
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|6
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|7
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|8
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|9
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|10
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|11
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|12
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|13
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|14
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|15
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|16
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|17
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|18
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|19
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|20
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|21
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|22
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|23
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|24
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|25
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|26
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|27
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|28
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|29
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|30
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|31
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|32
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|33
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|34
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|35
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|36
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|38
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|39
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|40
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|41
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|42
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|43
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|44
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|45
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|46
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|47
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|48
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|49
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|50
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|51
+0|Unintentional injuries|../Resources/OriginalFiles/NCHS_-_Leading_Causes_of_Death__United_States_1.csv|52
+Children : 
+
+END
